@@ -160,3 +160,14 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+
+# Ambiente virtual
+venv/
+__pycache__/
+
+# Jupyter Notebooks
+*.ipynb_checkpoints/
+
+# Arquivos de configuração IDE
+.vscode/
